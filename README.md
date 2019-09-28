@@ -1,6 +1,4 @@
-# flutter_examples_camera
-
-&#x27;A new Flutter project. Created by Slidy&#x27;
+# flutter_camera
 
 ## Getting Started
 
